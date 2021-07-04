@@ -5,8 +5,8 @@ The cofounder want to know how consumers use non-Bellabeat smart devices.
 
 
 ### Tool used:
-1. Microsoft SQL Server: data cleaning and analysis
-2. Tableau: data visualization
+#### 1. Microsoft SQL Server: data cleaning and analysis
+#### 2. Tableau: data visualization
 
 
 ### Data set: [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit)

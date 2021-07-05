@@ -6,10 +6,10 @@ The cofounder want to know how consumers use non-Bellabeat smart devices.
 </br>
 </br>
 
-• Cleaned and analyzed data using Microsoft SQL Server.
-• Visualized data insights and created dashboard using Tableau.
-• Tracked wellness data and found the trends.
-• Made data-driven recommendations to help influence marketing strategy.
+• Cleaned and analyzed data using Microsoft SQL Server.</br>
+• Visualized data insights and created dashboard using Tableau.</br>
+• Tracked wellness data and found the trends.</br>
+• Made data-driven recommendations to help influence marketing strategy.</br>
 
 
 ### Tool used:

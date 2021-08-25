@@ -16,6 +16,6 @@ The cofounder want to know how consumers use non-Bellabeat smart devices.
 #### 2. Tableau: data visualization
 
 
-### Data set: [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit)
+#### Data set: [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit)
 
-### View the dashboard on Tableau: [Wellness Data Tracking](https://public.tableau.com/app/profile/wan.chi.huang/viz/WellnessDataTracking/Dashboard1)
+#### View the dashboard on Tableau: [Wellness Data Tracking](https://public.tableau.com/app/profile/wan.chi.huang/viz/WellnessDataTracking/Dashboard1)
